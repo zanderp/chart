@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/chart":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/chart","hostpath":"C:/Users/kingston/chart/chart","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/kingston/chart/chart","disabled":false,"__vagrantfile":true}}}
